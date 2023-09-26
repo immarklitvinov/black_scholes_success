@@ -21,3 +21,5 @@ This repository contains the following files and directories:
 - [research.pdf](./research.pdf): Research paper in PDF format.
 
 - [title.tex](./title.tex): LaTeX file for the document title.
+
+- [presentation.pdf](./presentation.pdf): Presentation of the project.
